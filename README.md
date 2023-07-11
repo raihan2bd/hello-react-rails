@@ -12,7 +12,6 @@
     - [database ](#database-)
     - [Usage ](#usage-)
   - [✍️ Authors ](#️-authors-)
-    - [👤 **Salwa Ballouti**:](#-salwa-ballouti)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [💖 Show your support ](#-show-your-support-)
